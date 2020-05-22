@@ -1,0 +1,6 @@
+﻿<NavigationWindow x:Class="Bus_Interface.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Bus Interface" Height="350" Width="500" Source="Bus_InterfaceHome.xaml">
+
+</NavigationWindow>
